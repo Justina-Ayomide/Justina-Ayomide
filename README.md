@@ -1,5 +1,5 @@
 
-# Hi, I'm Justina Ayomide 👋
+# Hi, I'm Justina Ayomide 
 
 ### 📊 Data Analyst | Excel | SQL | Power BI
 
