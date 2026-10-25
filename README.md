@@ -1,9 +1,10 @@
 
-# Hi, I'm Justina Ayomide 
+<p align="center">
+  <h1 align="center">Hi, I'm Adesoji Justina
 
-### 📊 Data Analyst | Excel | SQL | Power BI
-
-*Turning data into insights. Exploring possibilities. Supporting better decisions.*
+<h4 align="center">📊 Data Analyst | Excel | SQL | Power BI
+<p align="center">
+Turning data into insights. Exploring possibilities. Supporting better decisions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justina-Ayomide)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justina-ayomide/)
