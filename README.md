@@ -111,3 +111,14 @@ Whether it's discussing projects, sharing knowledge, or exploring opportunities 
 ---
 
 *Learning continuously. Analysing thoughtfully. Growing through every project.*
+
+
+---
+
+## 🎓 Certifications & Professional Development
+
+- **Certified Professional Diploma in Data Analysis**
+
+This qualification reflects my professional development in data analysis and my commitment to building practical analytical skills.
+
+
