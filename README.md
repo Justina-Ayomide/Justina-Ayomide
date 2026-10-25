@@ -99,6 +99,14 @@ I'm continuously strengthening my technical and analytical skills through practi
 - **Radiography** — Academic background
 - **Data Analytics** — Practical learning and project development
 
+
+## 🎓 Certifications & Professional Development
+
+- **Certified Professional Diploma in Data Analysis**
+
+This qualification reflects my professional development in data analysis and my commitment to building practical analytical skills.
+
+
 ## Let's Connect
 
 I'm open to connecting with data analysts, technology professionals, mentors, recruiters, and others interested in using data to solve real-world problems.
@@ -114,11 +122,3 @@ Whether it's discussing projects, sharing knowledge, or exploring opportunities 
 
 
 ---
-
-## 🎓 Certifications & Professional Development
-
-- **Certified Professional Diploma in Data Analysis**
-
-This qualification reflects my professional development in data analysis and my commitment to building practical analytical skills.
-
-
